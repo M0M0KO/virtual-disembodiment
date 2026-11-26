@@ -1,0 +1,5 @@
+metric,left_condition,right_condition,difference,ci95_low,ci95_high,participants,matched_windows,model_seeds
+current_eeg_standardized_mae,targeted,matched_random,0.07635105955710914,0.06545324738586443,0.08726105439693152,16,1437,5
+current_eeg_standardized_mae,targeted,no_edit,0.07871606189031172,0.06782479783998327,0.0897842794806488,16,1437,5
+1s_eeg_crps,targeted,matched_random,3.493075178830865e-06,-1.6982883778297453e-05,2.3737141339534277e-05,16,1437,5
+1s_eeg_crps,targeted,no_edit,1.5523920835164888e-05,1.8556211160703808e-06,3.091357087592964e-05,16,1437,5
